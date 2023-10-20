@@ -1,4 +1,4 @@
-h1>Hi, I'm Chris! (https://www.linkedin.com/in/smithcjo/)>Cybersecurity Professional</a>, <a 
+h1>Hi, I'm Chris! (https://www.linkedin.com/in/smithcjo/)
 
 <h2>👨‍💻 Cybersecurity Projects :</h2>
 
